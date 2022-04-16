@@ -15,7 +15,7 @@ cantidad de monedas que pueda en este tiempo, en la parte inferior izquierda pod
 ![image](https://user-images.githubusercontent.com/74442776/163692342-4f04669e-deb6-4717-8e58-4b85ced961f9.png)
 
 ### Pantalla final 
-Una vez que el tiempo finaliza pasamos a la pantalla final, donde se agradece por jugar el juego y se muestra la cantidad de monedas recolecatadas por el jugador
+Una vez que el tiempo finaliza pasamos a la pantalla final, donde se agradece por jugar el juego y se muestra la cantidad de monedas recolectadas por el jugador
 
 ![image](https://user-images.githubusercontent.com/74442776/163692410-6cb801b5-5171-4fc9-9cc0-db4b2dbb32da.png)
 
